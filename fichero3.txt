@@ -1,2 +1,4 @@
 Este es el fichero 3
 Cambio 1 en fichero3.txt
+Cambio 2 en fichero3.txt
+Cambio 3 en fichero3.txt
